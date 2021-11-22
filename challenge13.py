@@ -72,5 +72,5 @@ class Directory():
             print('You are now an Admin')
 
 
-sf=Directory('sf415','gaba4554')
+sf=Directory('sf415','PASSWORD')
 
